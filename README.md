@@ -169,4 +169,3 @@ if verify is successful then issue boot command to the bootloader
 ```
 
 For exact details, see the [`tinyprog/__init__.py`](https://github.com/tinyfpga/TinyFPGA-Bootloader/blob/master/programmer/tinyprog/__init__.py) Python module in this repo.
-
